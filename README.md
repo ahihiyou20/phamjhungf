@@ -7,7 +7,14 @@
 ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/869473483615264768)](https://discord.com/users/869473483615264768)
 
+---
+###⚒️ Languages and Tools :
+<div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idkmynamevn&theme=dark&background=000000)](https://git.io/streak-stats)
-### Top language i used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkmynamevn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+
+</div>
